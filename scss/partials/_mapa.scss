@@ -1,0 +1,9 @@
+$footer_maps: (
+    bg-footer: #2c2828,
+    color-footer: #f3f3f3,
+);
+
+footer {
+    background-color: map-get($footer_maps, bg-footer);
+    color: map-get($footer_maps, color-footer);
+}

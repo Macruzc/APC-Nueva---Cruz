@@ -1,0 +1,23 @@
+$color-menu: #3f3f3f;
+$color-formulario: #3f3f3f;
+$color-footer: #f3f3f3;
+$background-footer: #2c2828;
+$background-contacto: #1b2a4e;
+$background-local: #f3f3f3;
+
+#menu a {
+    color: $color-menu;
+}
+
+
+#seccion-contacto {
+    background-color: $background-contacto;
+}
+
+#titulo-formulario {
+    color: $color-formulario;
+}
+
+#local {
+    background-color: $background-local;
+}

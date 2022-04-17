@@ -1,0 +1,16 @@
+@import "./partials/variables";
+@import "./partials/funciones";
+@import "./partials/operadores";
+@import "./partials/mapa";
+@import "./partials/header";
+@import "./partials/footer";
+@import "./partials/cotizar";
+@import "./partials/tiendas";
+@import "./partials/contacto";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+}
+
